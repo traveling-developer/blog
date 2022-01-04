@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://blog.menzel-it.de",
     title: "Blog",
   },
-  plugins: [],
+  plugins: ['gatsby-theme-material-ui'],
 };
